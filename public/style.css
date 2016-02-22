@@ -1,0 +1,28 @@
+body {
+	font-family: Helvetica;
+	color: white;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center
+}
+
+p {
+	font-size: 50px;
+	text-align: center;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	border: solid white 5px;
+	padding: 5px;
+}
+div {
+	border-radius: 4px
+}
+
+.top {
+	text-align: center;
+}

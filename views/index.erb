@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Git Me Up</title>
+	<link rel="stylesheet" href="/style.css">
+</head>
+<body style = "background-color: #<%= random_color %>">
+
+
+<% compliments = [
+  "You put the Git in my Hub.",
+  "You can push to my repo any time you want.",
+  "I'm going to commit...to this relationship.",
+  "I'd push and pull that.",
+  "I'd add you as a contributor.",
+  "I'm feeling the magnetic pull...of your pull request.",
+  "Let's fork."
+] %>
+
+<% display_compliment = compliments[rand(0..6)] %>
+<div class = "top">
+
+<h1> GitHub Pick-Up Lines </h1>
+<h2> Do you need to find the perfect line to talk to that programmer in your life? Get a start here! </h2>
+</div>
+
+<div>
+
+<p> <%="#{display_compliment}" %> </p>
+
+</div>
+
+<center> <a href = "/">Reload more lines!</a> 
+
+<a href = "http://www.sinatrarb.com/intro.html">I'd rather read some docs</a> </center>
+
+</body>
+</html>
