@@ -10,7 +10,7 @@
 
 <h2> Feature Specs </h2>
 <ul>
-<li> Randomly generates strings </li>
+<li> Randomly generates strings and colors. </li>
 </ul>
 
 <h2> Description </h2>
