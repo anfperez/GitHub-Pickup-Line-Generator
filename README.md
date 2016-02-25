@@ -1,5 +1,8 @@
 <h1> GitHub Pick-Up Line Generator </h1>
 
+<h2> Description </h2>
+<p>This was just a fun little project I made to generate GitHub-related pick-up lines. It was an exercise to practice picking out random strings from an array and having colors randomly generate with each click.</p>
+
 <h2> Technologies Used </h2>
 <ul>
 <li> HTML5 </li>
@@ -12,9 +15,6 @@
 <ul>
 <li> Randomly generates strings and colors. </li>
 </ul>
-
-<h2> Description </h2>
-<p>This was just a fun little project I made to generate GitHub-related pick-up lines. It was an exercise to practice picking out random strings from an array and having colors randomly generate with each click.</p>
 
 <h2> Sample Screenshots </h2>
 <img src = "http://i.imgur.com/lGX2eR5.png" alt = "sample">
